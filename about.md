@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Graduate Student at UNC Chapel Hill School of Information & Library Science
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Research Assistant at the EFC since 1992
 
 ### Contact me
 
